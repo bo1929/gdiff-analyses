@@ -1,1 +1,2 @@
 - [Benchmarking tree reconstruction accuracy on EvANI datasets using NJ*](https://github.com/bo1929/EvANI-gdiff-benchmarking)
+- [Analysis of SAGs from GORG-Tropics and DIGS simulations](https://github.com/bo1929/GORG-gdiff-analysis)
